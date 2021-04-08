@@ -168,7 +168,7 @@
     position: relative;  
 }
 
-/* .site-main .brand-area .experience-area .bg-panel{
+.site-main .brand-area .experience-area .bg-panel{
     position: absolute;
     right: 23%;
     top: 166%;
@@ -177,10 +177,10 @@
     height: 400px;
     margin-left: 340px;
     z-index: -1;
-} */
+}
 
 .experience-area{
-    background-color: #faf2f2;
+    background-color: rgb(242, 239, 235);
 }
 .site-main .brand-area .experience-area .years-area .years{
     font: normal bold 84px/40px var(--roboto);
